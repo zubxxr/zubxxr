@@ -34,7 +34,7 @@
 <div align="center">
   <h2>💻 Languages & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,docker,ros,linux,bash,git,github,unity,figma,vercel,html,css,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,docker,ros,linux,bash,git,github,unity,html,css,vscode&perline=10" />
   </a>
 </div>
 
