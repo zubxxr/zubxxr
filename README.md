@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
-  <h1 align="center">Hello, I'm Zubair</h1>
+  <h1 align="center">Zubair Islam</h1>
   <h4 align="center">Software Developer & AV Researcher | ROS 2 • Unity • YOLO • Autoware</h4>
 </div>
 
