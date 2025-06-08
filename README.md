@@ -22,7 +22,7 @@
 -----
 
 <div align="center">
-  <h2>🧠 About Me</h2>
+  <h2>About Me</h2>
   <p>
     I’m a MASc student at Ontario Tech University researching <b>multi-vehicle autonomous valet parking</b> using deep learning, ROS 2, and real-time simulation environments like Unity + Autoware.<br>
     Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
@@ -32,7 +32,7 @@
 -----
 
 <div align="center">
-  <h2>💻 Languages & Tools</h2>
+  <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,ros,unity,py,github,git,vscode,react,js,docker,kubernetes,sklearn,postman,opencv,nodejs,mysql,matlab,jenkins,gcp&perline=10" />
   </a>
@@ -41,7 +41,7 @@
 -----
 
 <div align="center">
-  <h2>📬 Contact Me</h2>
+  <h2>Contact Me</h2>
   <p>
     <a href="https://www.linkedin.com/in/zubairislam02/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
