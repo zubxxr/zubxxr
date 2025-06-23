@@ -22,6 +22,7 @@
 -->
 -----
 
+<!--
 <div align="center">
   <h2>About Me</h2>
   <p>
@@ -29,7 +30,11 @@
     Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
   </p>
 </div>
+-->
 
+- MASc student at Ontario Tech University
+- Researching multi-vehicle autonomous valet parking using deep learning, ROS 2, and real-time simulation environments like Unity + Autoware.
+- Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
 -----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
