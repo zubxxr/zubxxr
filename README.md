@@ -61,15 +61,8 @@
 </div>
 -->
 
-
-<div align="center">
-  <h2>Contact Me</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/zubairislam02/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-    </a>
-    <a href="mailto:zubxxr@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
-    </a>
-  </p>
+##
+<div> 
+   <a href="https://www.linkedin.com/in/zubairislam02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:zubxxr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
