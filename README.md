@@ -4,6 +4,7 @@
   <h4 align="center">MASc Researcher in Autonomous Vehicles</h4>
 </div>
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -18,7 +19,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+-->
 -----
 
 <div align="center">
@@ -31,13 +32,26 @@
 
 -----
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubxxr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style="display: inline_block"><br>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Sabrina-Ros" width="70" height="40"/></a>
+  <img align="center" alt="Zubair-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Zubair-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Zubair-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+<img align="center" alt="Zubair-docker" height="35" width="45" src="https://icongr.am/devicon/docker-original-wordmark.svg">
+</div>
+
+<!--
 <div align="center">
   <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,ros,unity,py,github,git,vscode,react,js,docker,kubernetes,sklearn,postman,opencv,nodejs,mysql,matlab,jenkins,gcp&perline=10" />
   </a>
 </div>
-
+-->
 -----
 
 <div align="center">
@@ -48,9 +62,6 @@
     </a>
     <a href="mailto:zubxxr@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
-    </a>
-    <a href="https://github.com/zubxxr" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
     </a>
   </p>
 </div>
