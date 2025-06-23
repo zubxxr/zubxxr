@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
   <h1 align="center">Zubair Islam</h1>
   <h4 align="center">MASc Researcher in Autonomous Vehicles</h4>
 </div>
@@ -20,7 +19,7 @@
   />
 </picture>
 -->
------
+
 
 <!--
 <div align="center">
@@ -36,7 +35,6 @@
 - MASc in Software Engineering student at Ontario Tech University
 - Researching multi-vehicle autonomous valet parking using ROS 2, Zenoh, YOLO, and real-time simulation environments like Unity + Autoware.
 - Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubxxr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,7 +60,7 @@
   </a>
 </div>
 -->
------
+
 
 <div align="center">
   <h2>Contact Me</h2>
