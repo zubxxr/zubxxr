@@ -32,6 +32,7 @@
 </div>
 -->
 
+### About Me
 - MASc in Software Engineering student at Ontario Tech University
 - Researching multi-vehicle autonomous valet parking using ROS 2, Zenoh, YOLO, and real-time simulation environments like Unity + Autoware.
 - Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
