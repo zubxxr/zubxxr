@@ -36,8 +36,9 @@
 - Researching multi-vehicle autonomous valet parking using ROS 2, Zenoh, YOLO, and real-time simulation environments like Unity + Autoware.
 - Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
 
-[![Anurag's GitHub stats](https://github-readme-stats-zubair.vercel.app//api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-zubair.vercel.app//api/top-langs/?username=zubxxr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Zubair's GitHub stats](https://github-readme-stats-zubair.vercel.app/api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-zubair.vercel.app/api/top-langs/?username=zubxxr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
