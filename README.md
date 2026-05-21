@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Zubair Islam</h1>
-  <h4 align="center">MASc Researcher in Autonomous Vehicles</h4>
+  <h4 align="center">Software Engineer</h4>
 </div>
 
 <!--
