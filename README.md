@@ -32,9 +32,10 @@
 -->
 
 ### About Me
-- MASc in Software Engineering student at Ontario Tech University
-- Researching multi-vehicle autonomous valet parking using ROS 2, Zenoh, YOLO, and real-time simulation environments like Unity + Autoware.
-- Passionate about connected vehicles, full-stack development, and building end-to-end AV systems.
+- MASc and BEng in Software Engineering from Ontario Tech University
+- Experience building distributed systems, simulation platforms, and robotics software
+- Worked with technologies including ROS 2, Unity, AWSIM Labs, Docker, React, Python, and C#
+- Interested in scalable backend systems, full stack development, and real-time applications
 
 [![Zubair's GitHub stats](https://github-readme-stats-zubair.vercel.app/api?username=zubxxr&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-zubair.vercel.app/api/top-langs/?username=zubxxr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
